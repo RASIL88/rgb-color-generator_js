@@ -2,7 +2,7 @@
 A lightweight JavaScript tool that generates random RGB colors with live preview and one-click copying functionality.
 
 ## 🚀 Live Demo
-  [Preview in GitHub Pages](https://RASIL88.github.io/simple-color-generator_Js/)
+  [Preview in GitHub Pages](https://rasil88.github.io/rgb-color-generator_js/)
 
 ## 📖 About
 This is a simple yet powerful color generator that helps designers and developers quickly get RGB color values. With just one click, you can generate beautiful random colors and copy them to your clipboard instantly.
