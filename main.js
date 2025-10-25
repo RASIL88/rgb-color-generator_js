@@ -23,5 +23,5 @@ Regenerate.addEventListener('click', function() {
 
 copy.addEventListener('click', function(){
     navigator.clipboard.writeText(`${r},${g},${b}`);
-    alert('Цвет удачно скопирован!!!');
+    alert('Successfully copied!!!');
 })
